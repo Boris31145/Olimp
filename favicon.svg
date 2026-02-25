@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Фон -->
+  <rect width="64" height="64" fill="#0b0e14"/>
+  <!-- Золотой круг -->
+  <circle cx="32" cy="26" r="19" fill="#d4af37"/>
+  <!-- Тёмный круг внутри (кольцо) -->
+  <circle cx="32" cy="26" r="8" fill="#0b0e14"/>
+  <!-- Золотой треугольник снизу -->
+  <polygon points="18.5,39 32,57 45.5,39" fill="#d4af37"/>
+</svg>
